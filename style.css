@@ -98,14 +98,7 @@
     transform: rotate(20deg);
   }
   
-  footer {
-    margin-top: 20px;
-  }
   
-  footer a {
-    text-decoration: none;
-    color: gray;
-  }
   #number, #getContact{
     margin-left: 2px;
   }
